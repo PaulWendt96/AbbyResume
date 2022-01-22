@@ -1,19 +1,17 @@
 ---
 pageClass: about-page
-description: 'The biography and information about me.'
+description: 'About me'
 avatar: /profile.jpg
-head: 'Harry Potter'
-info: 'Student at Hogwarts School'
+head: 'Abby Forman'
+info: 'Network Contractor at United Health'
 interests: 'Interests: Quidditch and Wizard chess.'
 socials:
-- title: github
-  link: https://github.com/mtobeiyf
 - title: linkedin
   link: https://www.linkedin.com
 - title: instagram
   link: https://www.instagram.com
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:lily6[at]gmail.com'
 actions:
 - text: Projects
   link: /projects/
@@ -26,7 +24,7 @@ footer: Made with ♥ by Fing. Powered by VuePress
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I attended the [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
 
 </AboutCard>
 
