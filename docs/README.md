@@ -21,51 +21,86 @@ email: lily6 (@) gmail (dot) com
 
 ## About Me
 
-I attended [Bentley University](https://www.bentley.edu) to study business and economics
+I attended [Bentley University](https://www.bentley.edu) in Waltham MA.
+I live in Boston, MA.
 
 
-## News
+## Education
 
-- [Jun 2021] Promoted to senior network manager
-- [Jun 2019] Graduated Bentley University with Honors
-
-
-## Education & Experiences
-
-- **Bentley University** <br/>
-Sept 2015 - 2019
-- **Guiderland High School** <br/>
-Sept 2011 - 2015
+- **Bentley University**, Waltham, MA <br/>
+**Sept 2015 - 2019**
+<br/>
+Bachelor of Science, Managerial Economics with a Concentration in Law 
+<br/>
+3.82 GPA
+<br/>
+Honors: President's List, NE-10 Commissioner Honor Roll
 
 
-## Projects
+## Relevant Experience
+<br>**UnitedHealth Group**, Waltham, MA
+</br>
+<br>
+<i>Network Contract Manager</i><span style="float: right">Feburary 2021 - Present</span>
+</br>
+<i>Network Contract</i><span style="float: right">June 2020 - Feburary 2021</span>
+</br>
+<i>Associate Network Contract</i><span style="float: right">June 2019 - June 2020</span>
+
+<br>
+<b>Commonwealth Care Alliance</b>, Boston, MA<span style="float: right">Summer 2018</span>
+<i>Revenue Cycle, Risk Adjustment Intern</i>
+<ul>
+<li>Utilized member diagnosis information to calculate projected risk adjustment revenue</li>
+<li>Created a systemized reporting structure to organize nine separate data streams into one report to track member health assessments</li>
+<li>Communicated with internal and external parties to develop critical workflows and program tracking metrics</li>
+</ul>
+</br>
+
+<br>
+<b>UBERDOC</b>, Lawrence, MA<span style="float: right">Fall 2018</span>
+<i>Business Development Intern</i>
+<ul>
+<li>Developed innovative communication strategies to expand brand awareness</li>
+<li>Created and distributed marketing research and analyzed results</li>
+</ul>
+</br>
 
 
-[→ Full list](/projects/)
 
-<ProjectCard hideBorder=true>
-  **Network Migration**
+## Additional Work Experience
+<br>**Trans World Entertainment Corp**, Albany, NY
+</br>
+<br>
+<i>Merchandising Operations Intern</i><span style="float: right">Summer 2016 & Summer 2017</span>
+<ul>
+<li>Coordinated product placement with vendors, buyers, allocation managers, and the marketing team</li>
+<li>Produced weekly sales and new product reports and distributed to executives</li>
+<li>Managed accounts with vendors including placing orders, negotiating terms and produced weekly vendor updates</li>
+</ul>
 
-  Abby F., Gene G., *et al*
-  
-  Moved a large hospital network from PPO to PMO
-
-</ProjectCard>
-
-<ProjectCard hideBorder=true>
-
-  **Worked for three states**
-  
-  I worked network contracts in three separate states, each with different rules and regulations.
-
-</ProjectCard>
+<br>**Bentley University Athletic Center**, Waltham, MA
+</br>
+<i>Fitness Center Associate</i>, Waltham, MA<span style="float: right">November 2015 & May 2019</span>
+<ul>
+<li>Execute tasks to open the fitness center and supervise the facilities</li>
+<li>Greet up to 100 patrons per shift and assist them with any questions or concerns</li>
+</ul>
 
 
-## Awards & Honors
+### Athletic and Volunteer Experience
+<br>**Bentley University Varisty Track and Field Team**, Waltham, MA
+</br>
+<ul>
+<li>Devote 25 hours per week in season to conditioning, practices, and NCAA competitions while maintaining a full academic course load</li>
+<li>Lead and motivate 45 teammates during practices and competitions while acting as a liasion between coaches and athletes to ensure effective organization and communication</li>
+<li>Volunteer to lead activities for children in the community to promote interaction with Bentley University's Sports Teams</li>
+</ul>
 
-### Contests
 
-- Bentley Track and Field
+### Athletic and Volunteer Experience
+<br>**Information Technology Skills**
+Microsoft Office, SPSS, FactSet, IBM Cognos
 
 
 <!-- Custom style for this page -->
