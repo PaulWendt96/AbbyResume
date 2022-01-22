@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/5097752/39163721-4c79012c-47ae-11e8-842b-2af72f69cc2c.jpg" width="300px" alt="">
   </a>
   <br />
-  Your Awesome Homepage
+  Your Awesome (Hopefully! :) ) Homepage
 </h1>
 
 <p align="center">
@@ -96,3 +96,5 @@ It's **responsive** and **mobile friendly**.
 Copyright © 2020, Fing
 
 Released under the [MIT License](https://opensource.org/licenses/MIT).
+
+100% unneeded code update

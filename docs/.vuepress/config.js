@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Abby Forman Resume",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
@@ -10,7 +10,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
+      { text: "Projects at al.", link: "/projects/" },
       { text: "Guide", link: "/guide/" },
       { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
     ],
