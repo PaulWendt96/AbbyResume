@@ -10,9 +10,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
-      { text: "Projects at al.", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "Resume", link: "https://github.com/mtobeiyf/vuepress-homepage" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')

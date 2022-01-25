@@ -98,3 +98,5 @@ Copyright © 2020, Fing
 Released under the [MIT License](https://opensource.org/licenses/MIT).
 
 100% unneeded code update
+
+Run with `docker run -p 8080:8080 -it -mount type=bind,source=/path/to/this/directory,target=/usr/app resume-site`

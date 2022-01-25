@@ -4,27 +4,24 @@ description: 'About me'
 avatar: /profile.jpg
 head: 'Abby Forman'
 info: 'Network Contractor at United Health'
-interests: 'Interests: Quidditch and Wizard chess.'
+interests: 'Interests: Health and Fitness.'
 socials:
 - title: linkedin
-  link: https://www.linkedin.com
+  link: https://www.linkedin.com/in/abigail-forman-83235911a
 - title: instagram
   link: https://www.instagram.com
 - title: email
   link: 'mailto:lily6[at]gmail.com'
 actions:
-- text: Projects
-  link: /projects/
-- text: Blog
-  link: https://github.com/mtobeiyf
-- text: CV
-  link: /article/
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-I attended the [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+Thanks for visiting my online resume! I'm currently work in Boston, MA as a
+Network Contractor at United Health. Prior to United Health, I attended
+Bentley University, where I graduated with a double major in health and
+economics.
 
 </AboutCard>
 
