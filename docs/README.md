@@ -21,7 +21,7 @@ email: lily6 (@) gmail (dot) com
 
 ## About Me
 
-I attended [Bentley University](https://www.bentley.edu) in Waltham MA.
+I attended [Bentley University](https://www.bentley.edu) in Waltham, MA.
 I live in Boston, MA.
 
 
