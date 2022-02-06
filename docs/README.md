@@ -8,10 +8,7 @@ profile: /profile.jpg
 socials:
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.linkedin.com/in/abigail-forman-83235911a
 
 bio: Network Contractor at United Health
 email: abbyforman6 (@) gmail (dot) com

@@ -8,8 +8,6 @@ interests: 'Interests: Health and Fitness.'
 socials:
 - title: linkedin
   link: https://www.linkedin.com/in/abigail-forman-83235911a
-- title: instagram
-  link: https://www.instagram.com
 - title: email
   link: 'mailto:abbyforman6[at]gmail.com'
 actions:
