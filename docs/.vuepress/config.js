@@ -9,8 +9,7 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Resume", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "About", link: "/about/" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
