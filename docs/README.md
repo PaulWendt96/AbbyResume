@@ -14,7 +14,7 @@ socials:
     link: https://www.instagram.com
 
 bio: Network Contractor at United Health
-email: lily6 (@) gmail (dot) com
+email: abbyforman6 (@) gmail (dot) com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
@@ -28,11 +28,11 @@ I live in Boston, MA.
 ## Education
 
 - **Bentley University**, Waltham, MA <br/>
-**Sept 2015 - 2019**
+**Sept 2015 - May 2019**
 <br/>
 Bachelor of Science, Managerial Economics with a Concentration in Law 
 <br/>
-3.82 GPA
+<i>Summa Cum Laude</i>
 <br/>
 Honors: President's List, NE-10 Commissioner Honor Roll
 
@@ -46,6 +46,12 @@ Honors: President's List, NE-10 Commissioner Honor Roll
 <i>Network Contract</i><span style="float: right">June 2020 - Feburary 2021</span>
 </br>
 <i>Associate Network Contract</i><span style="float: right">June 2019 - June 2020</span>
+<ul>
+<li>Guide development of geographically, broad access, stable networks that achieve objectives</li>
+<li>Evaluate, understand, and negotiate provider contracts in compliace with company templates, reimbursement structure standards and other key process controls</li>
+<li>Establish and maintain strong business relationships with assigned providers and internal partners</li>
+<li>Manage performance target setting, performance reporting, and associated financial models relative to provider network contracting</li>
+</ul>
 
 <br>
 <b>Commonwealth Care Alliance</b>, Boston, MA<span style="float: right">Summer 2018</span>
@@ -68,26 +74,6 @@ Honors: President's List, NE-10 Commissioner Honor Roll
 
 
 
-## Additional Work Experience
-<br>**Trans World Entertainment Corp**, Albany, NY
-</br>
-<br>
-<i>Merchandising Operations Intern</i><span style="float: right">Summer 2016 & Summer 2017</span>
-<ul>
-<li>Coordinated product placement with vendors, buyers, allocation managers, and the marketing team</li>
-<li>Produced weekly sales and new product reports and distributed to executives</li>
-<li>Managed accounts with vendors including placing orders, negotiating terms and produced weekly vendor updates</li>
-</ul>
-
-<br>**Bentley University Athletic Center**, Waltham, MA
-</br>
-<i>Fitness Center Associate</i>, Waltham, MA<span style="float: right">November 2015 & May 2019</span>
-<ul>
-<li>Execute tasks to open the fitness center and supervise the facilities</li>
-<li>Greet up to 100 patrons per shift and assist them with any questions or concerns</li>
-</ul>
-
-
 ### Athletic and Volunteer Experience
 <br>**Bentley University Varisty Track and Field Team**, Waltham, MA
 </br>
@@ -98,7 +84,7 @@ Honors: President's List, NE-10 Commissioner Honor Roll
 </ul>
 
 
-### Athletic and Volunteer Experience
+### Technologies
 <br>**Information Technology Skills**
 Microsoft Office, SPSS, FactSet, IBM Cognos
 

@@ -1,7 +1,7 @@
 module.exports = {
   title: "Abby Forman Resume",
-  description: "The description of the site.",
-  head: [["link", { rel: "icon", href: `/logo.png` }]],
+  description: "Resume of Abby Forman.",
+  head: [["link", { rel: "icon", href: `.vuepress/public/icons/lil_a.ico` }]],
   base: "/",
   dest: "./dist",
 

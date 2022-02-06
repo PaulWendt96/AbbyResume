@@ -11,14 +11,14 @@ socials:
 - title: instagram
   link: https://www.instagram.com
 - title: email
-  link: 'mailto:lily6[at]gmail.com'
+  link: 'mailto:abbyforman6[at]gmail.com'
 actions:
 footer: Made with ♥ by Fing. Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
 
-Thanks for visiting my online resume! I'm currently work in Boston, MA as a
+Thank you for visiting my online resume! I'm currently work in Boston, MA as a
 Network Contractor at United Health. Prior to United Health, I attended
 Bentley University, where I graduated with a double major in health and
 economics.
